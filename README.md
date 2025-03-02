@@ -1,4 +1,4 @@
-## 🕹️ Platformer-Adventure--OCaml-Edition
+## 🕹️ Platformer-Adventure--OCaml
 
 ## 🎮 Fonctionnalités principales
 - ✅ **Déplacements fluides avec gestion de la gravité et des collisions**
